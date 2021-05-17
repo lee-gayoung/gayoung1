@@ -4,3 +4,4 @@
 # print(y)
 # print(x,y)
 # z = "안녕"
+print(z)
